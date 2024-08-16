@@ -11,7 +11,8 @@
 </style>
 <body>
 <h1 style="color: red">Світ пончиків</h1>
+<div class="donut-direction">
 <img src="/uploads/2023/02/donut.png" alt="">
-
+</div>
 </body>
 </html>
